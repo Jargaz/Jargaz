@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Carlos Argañaraz
 
-<!--
-**Jargaz/Jargaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Data Science @ University of Padova  
+⚙️ Interested in: Machine Learning • Network Science • Anomaly Detection • Optimization  
+💡 Currently working on: LSTM-based anomaly detection and power plant availability optimization  
 
-Here are some ideas to get you started:
+📚 Featured Projects:
+- 🔗 [ds_prob_inf_net](https://github.com/Jargaz/ds_prob_inf_net): Probabilistic inference in networks
+- 🧮 [net-sci-project](https://github.com/eigen-carmona/net-sci-project): Network Science course project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Tech Stack:  
+Python • NumPy • Pandas • PyTorch • scikit-learn • Jupyter • Matplotlib
+
+📫 Reach me: juancarlos.arganaraz@studenti.unipd.it
