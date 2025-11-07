@@ -23,7 +23,6 @@ Currently applying **LSTM-based anomaly detection and optimization** techniques 
 ---
 
 ### 🚀 Projects  
-- [**ds_prob_inf_net**](https://github.com/Jargaz/ds_prob_inf_net) — Probabilistic inference in networks  
 - [**net-sci-project**](https://github.com/eigen-carmona/net-sci-project) — Network science applied to social graphs  
 - ⚙️ *Power Plant Availability Optimization* — Predictive maintenance & uptime improvement  
 
