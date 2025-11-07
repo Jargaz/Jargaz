@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Carlos Argañaraz  
+# 👋 Hi, I'm Juan Carlos
 
 🎯 **Data Science & AI Practitioner | MSc in Mechanical Engineering**  
 *Building intelligent systems that make industrial operations smarter.*
