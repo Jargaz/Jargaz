@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan Carlos Argañaraz  
 
-🎯 **Data Science & AI Practitioner | Mechanical Engineer**  
+🎯 **Data Science & AI Practitioner | MSc in Mechanical Engineering**  
 *Building intelligent systems that make industrial operations smarter.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
